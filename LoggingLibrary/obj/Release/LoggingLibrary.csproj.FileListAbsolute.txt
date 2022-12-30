@@ -1,0 +1,9 @@
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Release\LoggingLibrary.dll
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Release\LoggingLibrary.pdb
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Release\NLog.dll
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Release\NLog.xml
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Release\LoggingLibrary.csprojAssemblyReference.cache
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Release\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Release\LoggingLibrary.csproj.CopyComplete
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Release\LoggingLibrary.dll
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Release\LoggingLibrary.pdb

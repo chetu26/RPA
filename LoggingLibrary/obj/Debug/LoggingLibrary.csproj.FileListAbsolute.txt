@@ -1,0 +1,45 @@
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\bin\Debug\NLog.dll
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\bin\Debug\NLog.xml
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csprojAssemblyReference.cache
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CopyComplete
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\Facillima_code\ETRMRestAPI\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Debug\NLog.dll
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\bin\Debug\NLog.xml
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csprojAssemblyReference.cache
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CopyComplete
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\Facillima\CFM\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\bin\Debug\NLog.dll
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\bin\Debug\NLog.xml
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csprojAssemblyReference.cache
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CopyComplete
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\Facillima\Demo Preps\FMC Demo\CFMWebAPI\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+D:\ETRMWebService\ETRMService\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+D:\ETRMWebService\ETRMService\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+D:\ETRMWebService\ETRMService\LoggingLibrary\bin\Debug\NLog.dll
+D:\ETRMWebService\ETRMService\LoggingLibrary\bin\Debug\NLog.xml
+D:\ETRMWebService\ETRMService\LoggingLibrary\obj\Debug\LoggingLibrary.csprojAssemblyReference.cache
+D:\ETRMWebService\ETRMService\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\ETRMWebService\ETRMService\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CopyComplete
+D:\ETRMWebService\ETRMService\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+D:\ETRMWebService\ETRMService\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\bin\Debug\LoggingLibrary.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\bin\Debug\LoggingLibrary.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\bin\Debug\NLog.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\bin\Debug\NLog.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CoreCompileInputs.cache
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\obj\Debug\LoggingLibrary.csproj.CopyComplete
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\obj\Debug\LoggingLibrary.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\obj\Debug\LoggingLibrary.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\LoggingLibrary\obj\Debug\LoggingLibrary.csprojAssemblyReference.cache
