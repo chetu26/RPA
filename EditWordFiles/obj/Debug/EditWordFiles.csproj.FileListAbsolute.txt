@@ -1,0 +1,216 @@
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe.config
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.pdb
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csprojAssemblyReference.cache
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.Form1.resources
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.Properties.Resources.resources
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.GenerateResource.cache
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CoreCompileInputs.cache
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.exe
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.pdb
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.xml
+E:\OfficeWork\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CopyComplete
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.AWT.WinForms.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.JNI.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.xml
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.xml
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Microsoft.mshtml.dll
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.xml
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.xml
+E:\OfficeWork\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe.config
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.pdb
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.AWT.WinForms.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Beans.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Charsets.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Corba.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Core.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Localedata.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Management.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Media.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Misc.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Naming.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Remoting.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Security.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Text.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Tools.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Util.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.API.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.JNI.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Microsoft.mshtml.dll
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.xml
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csprojAssemblyReference.cache
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.Properties.Resources.resources
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.GenerateResource.cache
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CoreCompileInputs.cache
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CopyComplete
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.exe
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.pdb
+A:\OfficeWork\WordFileEditing\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.WordFileModificationForm.resources
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe.config
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.pdb
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.AWT.WinForms.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.JNI.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Microsoft.mshtml.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csprojAssemblyReference.cache
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.WordFileModificationForm.resources
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.Properties.Resources.resources
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.GenerateResource.cache
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CoreCompileInputs.cache
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CopyComplete
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.exe
+D:\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe.config
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.exe
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\EditWordFiles.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.AWT.WinForms.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\IKVM.Runtime.JNI.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Microsoft.mshtml.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\DocumentFormat.OpenXml.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\itextsharp.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Doc.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.License.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\Spire.Pdf.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\System.IO.Packaging.xml
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csprojAssemblyReference.cache
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.WordFileModificationForm.resources
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.Properties.Resources.resources
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.GenerateResource.cache
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CoreCompileInputs.cache
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.csproj.CopyComplete
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.exe
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\obj\Debug\EditWordFiles.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\LoggingLibrary.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\NLog.dll
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\LoggingLibrary.pdb
+E:\OfficeWork\PDF to Word\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\NLog.xml
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\LoggingLibrary.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\NLog.dll
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\LoggingLibrary.pdb
+D:\PDF to Word\EditWordFiles\EditWordFiles\bin\Debug\NLog.xml
