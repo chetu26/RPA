@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditWordFiles", "EditWordFiles\EditWordFiles.csproj", "{53313D7B-F310-483A-A514-25D32FBF7FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingLibrary", "LoggingLibrary\LoggingLibrary.csproj", "{547524A5-FAAD-49FD-85DB-6E4034ACD064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53313D7B-F310-483A-A514-25D32FBF7FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53313D7B-F310-483A-A514-25D32FBF7FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53313D7B-F310-483A-A514-25D32FBF7FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53313D7B-F310-483A-A514-25D32FBF7FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547524A5-FAAD-49FD-85DB-6E4034ACD064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA013235-360E-4A67-BDF9-308D06E56339}
+	EndGlobalSection
+EndGlobal
